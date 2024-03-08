@@ -1,0 +1,29 @@
+* {
+    font-family: "Courier New", Courier, monospace, Verdana, Tahoma, sans-serif;
+}
+
+h1.main-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+ul.main-list {
+    text-align: center;
+    list-style-type: none;    
+}
+
+img.recipe-photo {
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 400px;
+}
+
+ul.ingredients {
+    background-color: blue;
+    color: white
+}
+
+ol.directions {
+    background-color: green;
+}
